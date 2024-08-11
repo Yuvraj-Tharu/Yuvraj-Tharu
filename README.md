@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj-tharu&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj-tharu" /> </p>
 
-- 🔭 I’m currently working on my **Final Year Project**
+- 🔭 MERN-Stack Developer ****
 
 - 📫 How to reach me **https://www.linkedin.com/in/yuvraj-tharu-25b566206/**
 
