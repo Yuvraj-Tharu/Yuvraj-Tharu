@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj-tharu&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj-tharu" /> </p>
 
-- 🔭 **MERN-Stack Developer **
-- <h2 style="color:skyblue;">🔭 <strong>MERN-Stack Developer</strong></h2>
+- <h2>🔭 <strong>MERN-Stack Developer</strong></h2>
 
 
 - 📫 How to reach me **https://www.linkedin.com/in/yuvraj-tharu-25b566206/**
