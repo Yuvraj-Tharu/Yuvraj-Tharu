@@ -7,7 +7,7 @@
 - <h2>🔭 <strong>MERN-Stack Developer</strong></h2>
 
 
-- 📫 How to reach me **https://www.linkedin.com/in/yuvraj-tharu-25b566206/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
