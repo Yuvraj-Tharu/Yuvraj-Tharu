@@ -10,10 +10,10 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://www.linkedin.com/in/yuvraj-tharu-25b566206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj tharu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/suraj.delove" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yuvraj chaudhary" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
